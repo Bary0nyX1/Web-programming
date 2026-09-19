@@ -2,7 +2,7 @@
     <head>
         <title> Лабораторная работа 1</title>
     </head>
-    <body> <p style='background-color:wheat'></p>
+    <body <p style='background-color:wheat'></p>
         <h1> Это моя первая HTML страница.</h1>
         <h1>О себе</h1>
         <p> Родилась в городе Программостан.</p>
@@ -28,6 +28,6 @@
         </ol>
         <h2>Как связаться со мной:</h2>
         <a href="https://vk.ru/bary0nyx">Это ссылка на мой ВК.</a>
-        <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfdPJwehfP75yzRXYSITQzj0JXadbcem43tpusKj6Qg&s=10">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfdPJwehfP75yzRXYSITQzj0JXadbcem43tpusKj6Qg&s=10">
     </body>
 </html>
